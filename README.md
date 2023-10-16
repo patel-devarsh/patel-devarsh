@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patel-devarsh
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning cs50x(2023) and webdev
-- 💞️ I’m looking for guidance in the field of web devlopment
+- 💞️ I’m looking for guidance in the field of web devlopment.
 - 📫 How to reach me 36devarshpatel@gmail.com
 
 <!---
